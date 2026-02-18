@@ -1,0 +1,38 @@
+Logged at 2026-01-27 11:27:50 - LOGGER_SERVICE_WORKING_FINALLY
+Logged at 2026-01-27 12:42:54 - Booking-Approved | Booking Id = 5
+Logged at 2026-01-27 13:06:35 - PAYMENT_SUCCESS | bookingId=5 | amount=600.0
+Logged at 2026-01-27 15:30:34 - BOOKING_CONFIRMED | booking id = 4
+Logged at 2026-01-27 15:33:40 - BOOKING_CONFIRMED | booking id = 4
+Logged at 2026-01-29 12:47:54 - BOOKING_REJECTED | bookingId=2
+Logged at 2026-01-29 12:48:11 - BOOKING_REJECTED | bookingId=6
+Logged at 2026-02-01 21:26:12 - Booking-Approved | Booking Id = 9
+Logged at 2026-02-01 21:26:13 - BOOKING_CONFIRMED | booking id = 9
+Logged at 2026-02-01 21:26:13 - PAYMENT_SUCCESS | bookingId=9 | amount=250.0
+Logged at 2026-02-01 22:57:25 - Booking-Approved | Booking Id = 10
+Logged at 2026-02-01 23:00:49 - BOOKING_CONFIRMED | booking id = 10
+Logged at 2026-02-01 23:00:49 - PAYMENT_SUCCESS | bookingId=10 | amount=500.0
+Logged at 2026-02-02 00:15:09 - BOOKING_REJECTED | bookingId=11
+Logged at 2026-02-02 00:23:40 - Booking-Approved | Booking Id = 12
+Logged at 2026-02-02 00:23:40 - BOOKING_CONFIRMED | booking id = 12
+Logged at 2026-02-02 00:23:40 - PAYMENT_SUCCESS | bookingId=12 | amount=250.0
+Logged at 2026-02-02 00:33:41 - Booking-Approved | Booking Id = 13
+Logged at 2026-02-02 00:35:30 - Booking-Approved | Booking Id = 14
+Logged at 2026-02-02 00:35:30 - BOOKING_CONFIRMED | booking id = 14
+Logged at 2026-02-02 00:35:30 - PAYMENT_SUCCESS | bookingId=14 | amount=300.0
+Logged at 2026-02-02 00:36:45 - Booking-Approved | Booking Id = 15
+Logged at 2026-02-02 00:36:45 - BOOKING_CONFIRMED | booking id = 15
+Logged at 2026-02-02 00:36:45 - PAYMENT_SUCCESS | bookingId=15 | amount=300.0
+Logged at 2026-02-02 00:36:45 - BOOKING_REJECTED | bookingId=16
+Logged at 2026-02-02 12:18:48 - Booking-Approved | Booking Id = 18
+Logged at 2026-02-02 12:18:49 - BOOKING_CONFIRMED | booking id = 18
+Logged at 2026-02-02 12:18:49 - PAYMENT_SUCCESS | bookingId=18 | amount=300.0
+Logged at 2026-02-02 12:40:42 - Booking-Approved | Booking Id = 19
+Logged at 2026-02-02 12:40:43 - BOOKING_CONFIRMED | booking id = 19
+Logged at 2026-02-02 12:40:43 - PAYMENT_SUCCESS | bookingId=19 | amount=800.0
+Logged at 2026-02-02 12:40:43 - BOOKING_REJECTED | bookingId=20
+Logged at 2026-02-02 12:52:05 - BOOKING_REJECTED | bookingId=7
+Logged at 2026-02-02 13:28:55 - Booking-Approved | Booking Id = 21
+Logged at 2026-02-02 15:16:53 - Booking-Approved | Booking Id = 2
+Logged at 2026-02-02 15:28:19 - BOOKING_CANCELLED | booking id = 1
+Logged at 2026-02-02 15:28:56 - BOOKING_CANCELLED | booking id = 1
+Logged at 2026-02-02 15:34:39 - BOOKING_CANCELLED | booking id = 1
